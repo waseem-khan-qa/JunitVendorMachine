@@ -17,4 +17,4 @@ public class WalletTEST {
 	// Others Tests for other classes that use Wallet may impact code coverage
 	// Avoid relying on these tests, one test for one class; keep "Single Responsibility" in mind.
 	
-}
+	}
